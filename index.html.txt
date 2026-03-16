@@ -1,2 +1,0 @@
-<h1>Aula de GIT</h1>
-<h2>Alteração do Projeto</h2>
